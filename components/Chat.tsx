@@ -1,7 +1,7 @@
-function CHat() {
+function Chat() {
   return (
     <div>CHat</div>
   )
 }
 
-export default CHat
+export default Chat
