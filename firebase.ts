@@ -8,7 +8,7 @@ const firebaseConfig = {
   projectId: "chat-gpt-shubender",
   storageBucket: "chat-gpt-shubender.appspot.com",
   messagingSenderId: "70868579071",
-  appId: "1:70868579071:web:ebae41562c905f00a692ca"
+  appId: "1:70868579071:web:ebae41562c905f00a692ca",
 };
 
 // Initialize Firebase
