@@ -12,7 +12,7 @@ function ModelSelection() {
   });
 
   return (
-    <div className="mt-2">
+    <div className="my-2">
       <Select
         className="mt-2"
         options={models?.modelOptions}
